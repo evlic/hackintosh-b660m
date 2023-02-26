@@ -27,7 +27,7 @@
 
 ```
 
-![image-20230226150344954](/Users/evlic/AtCode/Docker/Hackintsh-OpenCore-B660M_G-i5_12400F-rx6600xt/README.assets/image-20230226150344954.png)
+![image-20230226150344954](./README.assets/image-20230226150344954.png)
 
 ### 配置描述（补充）
 
